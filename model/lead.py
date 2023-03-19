@@ -13,3 +13,6 @@ def update_lead_query():
   def select_lead_query():
     print 'Lead select from database.'
 
+# Delete lead query.
+def delete_lead_query():
+  print 'Lead deleted from database.'
